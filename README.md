@@ -24,3 +24,9 @@ We will explain how to work with us for the new member in our lab.
 ## Control
 
 
+##  ROS 
+books:Ros for example:  http://files.cnblogs.com/files/cv-pr/ros_by_example_vol2_indigo.pdf
+      kyushu University : http://robotics.ait.kyushu-u.ac.jp/books/ROSBOOK_JP.pdf
+tutorials: ros wiki
+blogs:http://blog.csdn.net/hcx25909/article/details/8904292
+
